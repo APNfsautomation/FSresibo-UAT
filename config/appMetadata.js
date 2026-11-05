@@ -1,5 +1,5 @@
 // Update this one value for each manually tested deployment. Stable releases use a plain version such as 3.7.0.
 export const appMetadata = Object.freeze({
   name: 'FS Receipt Management Tool',
-  version: '3.7.0-uat+506fdf3'
+  version: '3.7.0-uat+b50fdaf'
 });
