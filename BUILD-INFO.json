@@ -1,8 +1,8 @@
 {
   "environment": "UAT",
   "sourceRepository": "APNfsautomation/FSresibo",
-  "sourceCommit": "b50fdafafae94d4f72544be35235463a4b285d50",
-  "builtAt": "2026-11-05T15:24:59.073Z",
+  "sourceCommit": "ad24817f3a8d2d31c055370aff172337f3cd2456",
+  "builtAt": "2026-11-12T22:17:47.207Z",
   "supabaseProject": "wnudewolpouussjtblis",
   "basePath": "/FSresibo-UAT/"
 }
